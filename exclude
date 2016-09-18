@@ -1,2 +1,5 @@
 *
-!mario.c
+!*.c
+!*.h
+!Makefile
+#mario.c
