@@ -2,4 +2,4 @@
 !*.c
 !*.h
 !Makefile*
-#vigenere.c
+#initials.c
