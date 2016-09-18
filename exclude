@@ -2,4 +2,7 @@
 !*.c
 !*.h
 !Makefile*
-#initials.c
+#find.c
+#helpers.c
+#helpers.h
+#Makefile
