@@ -2,4 +2,4 @@
 !*.c
 !*.h
 !Makefile*
-#credit.c
+#caesar.c
