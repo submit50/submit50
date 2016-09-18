@@ -2,4 +2,4 @@
 !*.c
 !*.h
 !Makefile*
-#greedy.c
+#credit.c
