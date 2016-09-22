@@ -1,6 +1,8 @@
 *
 !*.c
+*fifteen*.c
 !*.h
+*fifteen*.h
 !Makefile*
 #find.c
 #helpers.c
