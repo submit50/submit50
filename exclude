@@ -1,6 +1,9 @@
 *
 !*.c
+*find*.c
+*helpers*.c
 !*.h
+*helpers*.h
 !Makefile*
 !questions.txt
 #fifteen.c
