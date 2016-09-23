@@ -1,11 +1,10 @@
 *
 !*.c
-*find*.c
-*helpers*.c
+!copy.c
 !*.h
-*helpers*.h
+!bmp.h
 !Makefile*
 !questions.txt
 #fifteen.c
-#Makefile
 #questions.txt
+#whodunit.c
