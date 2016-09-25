@@ -4,6 +4,4 @@
 !*.h
 !bmp.h
 !Makefile*
-!questions.txt
-#questions.txt
-#whodunit.c
+#resize.c
