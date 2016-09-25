@@ -1,6 +1,5 @@
 *
 !*.c
-!copy.c
 !*.h
 !bmp.h
 !Makefile*
