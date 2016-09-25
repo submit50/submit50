@@ -5,6 +5,5 @@
 !bmp.h
 !Makefile*
 !questions.txt
-#fifteen.c
 #questions.txt
 #whodunit.c
