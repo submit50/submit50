@@ -6,4 +6,5 @@
 #dictionary.c
 #dictionary.h
 #Makefile
+#questions.txt
 #speller.c
