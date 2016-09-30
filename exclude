@@ -3,5 +3,7 @@
 !*.h
 !Makefile*
 !questions.txt
-#questions.txt
-#whodunit.c
+#dictionary.c
+#dictionary.h
+#Makefile
+#speller.c
