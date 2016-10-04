@@ -1,9 +1,0 @@
-*
-!*.c
-!*.h
-!Makefile*
-!questions.txt
-#dictionary.c
-#dictionary.h
-#Makefile
-#speller.c
