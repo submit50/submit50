@@ -2,6 +2,6 @@
 __pycache__/
 .*
 #application.py
-#finance.db
+#mashup.db
 #helpers.py
 #requirements.txt
