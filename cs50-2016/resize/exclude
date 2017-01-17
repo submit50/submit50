@@ -1,0 +1,6 @@
+*
+!*.c
+!*.h
+!bmp.h
+!Makefile*
+#resize.c

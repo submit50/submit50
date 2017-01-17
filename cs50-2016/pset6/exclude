@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+.*
+mario
+greedy
+credit
+caesar
+vigenere
+crack
+#mario.py
+#sentiments/analyzer.py
+#sentiments/application.py
+#sentiments/tweets

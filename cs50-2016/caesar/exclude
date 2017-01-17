@@ -1,0 +1,7 @@
+*
+!*.c
+*initials*.c
+*vigenere*.c
+!*.h
+!Makefile*
+#caesar.c
