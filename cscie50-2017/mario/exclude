@@ -2,4 +2,4 @@
 !*.c
 !*.h
 !Makefile*
-#hello.c
+#mario.c
