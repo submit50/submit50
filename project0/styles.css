@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eee;
+  color: #333;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+button {
+  padding: 10px 15px;
+  border: 1px solid #777;
+  border-radius: 5px;
+  background-color: #ddd;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+button:hover,
+.todo-list li button:hover {
+  opacity: 1;
+  border-color: #333;
+  background-color: #eee;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+.center {
+  align-self: center;
+}
+
+.todo-list {
+  padding: 20px;
+}
+
+.todo-list li {
+  padding: 5px;
+  border-bottom: 1px solid #333;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.todo-list li div {
+  margin: 10px;
+}
+
+.todo-list li button {
+  padding: 3px 5px;
+  margin-left: 5px;
+  opacity: 0.4;
+}
+
+.isChecked {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
