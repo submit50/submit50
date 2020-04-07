@@ -1,5 +1,2 @@
-*
-!*.c
-!*.h
-!Makefile*
-#hello.c
+#documentation.txt
+#design.txt
