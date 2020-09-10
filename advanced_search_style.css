@@ -1,0 +1,117 @@
+div {
+display : block;
+}
+#title {
+color : #d93025;
+font-size : 20px;
+margin : 25px 35px;
+}
+div.advancedparameters {
+margin : 0;
+padding : 0;
+border : 0;
+font-weight : inherit;
+font-style : inherit;
+font-size : 100%;
+vertical-align : baseline;
+text-decoration : none;
+}
+div.parameter {
+clear : both;
+margin : 0 35px;
+padding : 0;
+border : 0;
+font-weight : inherit;
+font-style : inherit;
+font-size : 100%;
+vertical-align : baseline;
+text-decoration : none;
+}
+div.l {
+float : left;
+display : inline-block;
+min-width : 167px;
+width : 16%;
+height : 42px;
+color : #222;
+font-size : 13px;
+line-height : 16px;
+vertical-align : middle;
+}
+div.c {
+float : left;
+display : inline-block;
+min-width : 167px;
+min-height : 41px;
+vertical-align : middle;
+width : 50%;
+}
+div.r {
+float : left;
+display : inline-block;
+width : 32%;
+min-width : 160px;
+margin : 0 0 8px 1%;
+color : #555;
+font-size : 11px;
+padding-left : 5px;
+vertical-align : middle;
+position : relative;
+}
+input {
+text-rendering : auto;
+letter-spacing : normal;
+word-spacing : normal;
+text-transform : none;
+text-indent : 0;
+text-shadow : none;
+display : inline-block;
+text-align : start;
+cursor : text;
+margin : 0;
+font : 400 13.3333px Arial;
+}
+div.c input {
+width : 90%;
+}
+input.advanced {
+border-radius : 1px;
+border : #d9d9d9 solid 1px;
+border-top : 1px solid #c0c0c0;
+font-size : 13px;
+height : 25px;
+padding : 1px 8px;
+float : right;
+}
+input.advsearch {
+line-height : 100%;
+height : 30px;
+width : 120px;
+float : right;
+margin : 10px 0;
+padding : 0 12px;
+background-color : #4d90fe;
+border : #3079ed solid 1px;
+color : #fff;
+border-radius : 2px;
+cursor : default;
+font-size : 11px;
+font-weight : bold;
+text-align : center;
+white-space : nowrap;
+outline : 0;
+font : 400 13.3333px Arial;
+}
+div.header {
+background-color : #e5e5e5 !important ;
+}
+div#title {
+color : #d93025 !important ;
+font-size : 20px;
+margin : 25px 35px;
+border-bottom : 1px solid #ebebeb;
+padding-bottom : 30px;
+}
+span#find {
+margin : 0 35px;
+}

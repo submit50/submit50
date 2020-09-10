@@ -1,0 +1,120 @@
+a {
+text-decoration : none;
+}
+a:hover {
+text-decoration : underline;
+}
+div.logo, div.searchbox, div.searchbuttons {
+display : flex;
+justify-content : center;
+align-items : center;
+}
+div.searchbox {
+width : 582px;
+height : 44px;
+background : #fff;
+display : flex;
+border : #dfe1e5 solid 1px;
+box-shadow : none;
+border-radius : 24px;
+z-index : 3;
+height : 44px;
+margin : 0 auto;
+margin-bottom : 20px;
+}
+input.searchquery {
+font : 16px arial, sans-serif;
+line-height : 34px;
+height : 34px !important ;
+cursor : text;
+text-align : start;
+letter-spacing : normal;
+word-spacing : normal;
+text-transform : none;
+text-indent : 0;
+text-shadow : none;
+text-rendering : auto;
+width : 500px;
+border : 0;
+}
+input.regsearch {
+background-color : #f2f2f2;
+border : #f2f2f2 solid 1px;
+border-radius : 4px;
+color : #5F6368;
+font-family : arial, sans-serif;
+font-size : 14px;
+margin : 11px 4px;
+padding : 0 16px;
+line-height : 27px;
+height : 36px;
+min-width : 54px;
+text-align : center;
+cursor : pointer;
+user-select : none;
+}
+input.lucky {
+background-color : #f2f2f2;
+border : #f2f2f2 solid 1px;
+border-radius : 4px;
+color : #5F6368;
+font-family : arial, sans-serif;
+font-size : 14px;
+margin : 11px 4px;
+padding : 0 16px;
+line-height : 27px;
+height : 36px;
+min-width : 54px;
+text-align : center;
+cursor : pointer;
+user-select : none;
+}
+div.header {
+font-size : 10pt;
+margin : 20px;
+}
+div.topleft {
+float : left;
+opacity : 0.75;
+}
+div.topleft a {
+color : #000000;
+}
+div.topright a {
+color : #000000;
+}
+div.topright {
+float : right;
+opacity : 0.87;
+}
+div.footer {
+display : block;
+background : #f2f2f2;
+line-height : 40px;
+min-width : 980px;
+border-top : 1px solid #e4e4e4;
+min-width : 400px;
+bottom : 0;
+left : 0;
+position : absolute;
+right : 0;
+font-size : 10.5pt;
+}
+div.logo {
+margin-top : 120px;
+margin-bottom : 15px;
+}
+div.footer a {
+color : #5f6368;
+}
+div.bottomleft {
+float : left;
+margin-left : 30px;
+}
+div.bottomright {
+float : right;
+margin-right : 30px;
+}
+body {
+font-family : Arial, Sans-serif;
+}
